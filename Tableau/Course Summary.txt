@@ -1,0 +1,12 @@
+Dimensions and Measures
+  The easiest way to distinguish is that:
+    Dimensions
+      - independent variables
+
+    Measures
+      - dependent variables
+
+If want our own custom fields
+  1. Right Click at "Measures" section
+  2. Click on "Create Calculated Field..."
+  3. Provide a name and formula for values

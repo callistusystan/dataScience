@@ -10,13 +10,13 @@ This repository will keep all my data analytics and data science projects.
 For now, I will be working with Tableau for Data Analytics, and Python for Data Science, but I would definitely try to experiment with R in the future.
 
 ###Usage###
-# Data Analytics with Tableau
+####Data Analytics with Tableau####
 Requirements:
 
 1. Tableau
 
 
-# Data Science with Python
+####Data Science with Python####
 Requirements:
 
 1. Python 3

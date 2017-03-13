@@ -1,4 +1,4 @@
-# Data Science
+# Data Analytics and Data Science
 
 One of my interests in the field is Artificial Intelligence, which involves amazing topics such as machine learning. 
 

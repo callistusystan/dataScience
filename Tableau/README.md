@@ -3,10 +3,10 @@
 ##Challenge 1##
 Display the profits earned in each state.
 
-![Alt text](/Challenge1/chart.png?raw=true "Challenge 1")
+<img src="Challenge 1/chart.png" width="240">
 
 
 ##Challenge 2##
 Find the employees with the highest sales for each region.
 
-![Alt text](/Challenge2/chart.png?raw=true "Challenge 1")
+<img src="/Challenge 2/chart.png" width="240">

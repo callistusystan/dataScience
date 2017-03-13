@@ -1,13 +1,18 @@
 # Data Analytics and Data Science
 
-One of my interests in the field is Artificial Intelligence, which involves amazing topics such as machine learning. 
+One of my interests in the field is Artificial Intelligence, which involves amazing topics such as machine learning.
 
 While I have had some experience with classification, clustering and machine learning algorithms, I would like to further my knowledge in this area.
 
-This repository will keep all my data analytics and data science projects. 
+This repository will keep all my data analytics and data science projects.
 
 
 For now, I will be working with Tableau for Data Analytics, and Python for Data Science, but I would definitely try to experiment with R in the future.
+
+##Some Charts I made while learning Data Analytics##
+<img src="/Tableau/Challenge 1/chart.png" width="240">
+<img src="/Tableau/Challenge 2/chart.png" width="240">
+
 
 ###Usage###
 ####Data Analytics with Tableau####

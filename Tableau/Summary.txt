@@ -1,0 +1,7 @@
+Dimensions and Measures
+  The easiest way to distinguish is that:
+    Dimensions
+      - independent variables
+
+    Measures
+      - dependent variables

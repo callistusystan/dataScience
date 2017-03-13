@@ -4,10 +4,19 @@ One of my interests in the field is Artificial Intelligence, which involves amaz
 
 While I have had some experience with classification, clustering and machine learning algorithms, I would like to further my knowledge in this area.
 
-This repository will keep all my data science projects. For now, I will be working with Python, but I would definitely try to experiment with R in the future.
+This repository will keep all my data analytics and data science projects. 
+
+
+For now, I will be working with Tableau for Data Analytics, and Python for Data Science, but I would definitely try to experiment with R in the future.
 
 ###Usage###
+# Data Analytics with Tableau
+Requirements:
 
+1. Tableau
+
+
+# Data Science with Python
 Requirements:
 
 1. Python 3

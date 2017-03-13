@@ -10,3 +10,7 @@ If want our own custom fields
 
 To add colors, drag field to Color Button.
   You may change the color palette by clicking Color > Edit Colors...
+
+Data can be connected by Live or Extract
+  Live is a dynamic connection, which will be updated over time
+  Extract creates a static connection to work with

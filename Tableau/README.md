@@ -10,3 +10,9 @@ Display the profits earned in each state.
 Find the employees with the highest sales for each region.
 
 <img src="Challenge 2/chart.png">
+
+
+##Challenge 3##
+
+
+<img src="Challenge 3/chart.png">

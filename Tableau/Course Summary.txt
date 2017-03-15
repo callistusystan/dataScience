@@ -1,7 +1,7 @@
 Dimensions and Measures
   The easiest way to distinguish is that:
-    Dimensions are INDEPENDENT variables
-    Measures are DEPENDENT variables
+    Dimensions (Blue) are INDEPENDENT variables
+    Measures (Green) are DEPENDENT variables
 
 If want our own custom fields
   1. Right Click at "Measures" section
@@ -14,3 +14,7 @@ To add colors, drag field to Color Button.
 Data can be connected by Live or Extract
   Live is a dynamic connection, which will be updated over time
   Extract creates a static connection to work with
+
+Tableau will always aggregate measures at the level of granularity
+  Aggregation, specified by measures
+  Granularity, specified by dimensions

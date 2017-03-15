@@ -13,6 +13,6 @@ Find the employees with the highest sales for each region.
 
 
 ##Challenge 3##
-
+Show the unemployment rate for all age groups
 
 <img src="Challenge 3/chart.png">

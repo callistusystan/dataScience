@@ -12,6 +12,7 @@ For now, I will be working with Tableau for Data Analytics, and Python for Data 
 ##Some Charts I made while learning Data Analytics##
 <img src="/Tableau/Challenge 1/chart.png" width="240">
 <img src="/Tableau/Challenge 2/chart.png" width="240">
+<img src="/Tableau/Challenge 3/chart.png" width="240">
 
 
 ###Usage###

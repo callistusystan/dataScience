@@ -15,14 +15,14 @@ For now, I will be working with Tableau for Data Analytics, and Python for Data 
 <img src="/Tableau/Challenge 3/chart.png" width="240">
 
 
-###Usage###
-####Data Analytics with Tableau####
+### Usage ###
+#### Data Analytics with Tableau ####
 Requirements:
 
 1. Tableau
 
 
-####Data Science with Python####
+#### Data Science with Python ####
 Requirements:
 
 1. Python 3

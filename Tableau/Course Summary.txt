@@ -18,3 +18,6 @@ Data can be connected by Live or Extract
 Tableau will always aggregate measures at the level of granularity
   Aggregation, specified by measures
   Granularity, specified by dimensions
+
+Hierarchy
+  For example, a city can only be in one state, a state can only be in one city

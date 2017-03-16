@@ -22,3 +22,9 @@ Show the unemployment rate for all age groups.
 Show the profit margin for every state.
 
 <img src="Challenge 4/dashboard.png">
+
+
+## Challenge 5 ##
+Show the actual sales as compared to the target sales.
+
+<img src="Challenge 5/chart.png">

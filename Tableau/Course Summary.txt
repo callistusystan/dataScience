@@ -15,9 +15,37 @@ Data can be connected by Live or Extract
   Live is a dynamic connection, which will be updated over time
   Extract creates a static connection to work with
 
+Aggregate
+  - Form/Group Data into a class or cluster
+
+Granularity
+  - The level of detail in a dataset
+
 Tableau will always aggregate measures at the level of granularity
   Aggregation, specified by measures
   Granularity, specified by dimensions
 
 Hierarchy
   For example, a city can only be in one state, a state can only be in one city
+
+Joins
+  Inner Join
+    Gets the intersection of field(s)
+
+  Left Outer Join
+    Sets Table A as the primary table, which keeps all of Table A's rows in the final
+    table. Table B's rows will be shown only if there is an intersection on field(s)
+
+  Right Outer Join
+    Similar to above, but B is the primary table.
+
+  Full Outer Join
+    Shows all the rows in both tables. The rows are merged if there is an intersection
+    on field(s).
+
+Blend
+  - Is a flexible join on the fly
+
+ Blend over Join
+  - Fields are different and restructuring them will lose information
+  - Data source are different

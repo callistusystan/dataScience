@@ -41,11 +41,17 @@ Joins
 
   Full Outer Join
     Shows all the rows in both tables. The rows are merged if there is an intersection
-    on field(s).
+    on field(s)
 
 Blend
-  - Is a flexible join on the fly
+  - Is a smart and flexible join on the fly
+  - Is a left join
 
- Blend over Join
-  - Fields are different and restructuring them will lose information
-  - Data source are different
+Joins vs Blends
+  Use joins when combining data at row level
+
+  Use blends when datasources have different levels of granularity
+  Use blends when datasources come from different systems
+
+Combine charts using Dual Axis Charts
+  Remember to synchronize the axes!

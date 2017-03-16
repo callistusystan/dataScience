@@ -55,3 +55,13 @@ Joins vs Blends
 
 Combine charts using Dual Axis Charts
   Remember to synchronize the axes!
+
+Create Custom territories via:-
+  Groups
+  Geographic Roles
+
+Use Highlighters to "filter" without interrupting data
+
+Tableau Analytics
+  Clusters to create clusters using K-means clustering
+  Trends to create regression lines using Regression Modeling

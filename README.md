@@ -16,6 +16,9 @@ For now, I will be working with Tableau for Data Analytics, and Python for Data 
 	<img src="/Tableau/Challenge 3/chart.png" width="240">
 	<img src="/Tableau/Challenge 4/dashboard.png" width="240">
 	<img src="/Tableau/Challenge 5/chart.png" width="240">
+	<img src="/Tableau/Challenge 6/story.png" width="240">
+	<img src="/Tableau/Challenge 7/chart.png" width="240">
+	<img src="/Tableau/Challenge 8/chart.png" width="240">
 </div>
 
 ### Usage ###

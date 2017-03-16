@@ -28,3 +28,21 @@ Show the profit margin for every state.
 Show the actual sales as compared to the target sales.
 
 <img src="Challenge 5/chart.png">
+
+
+## Challenge 6 ##
+Create a story using a dashboard, showing insight on bank customers.
+
+<img src="Challenge 6/story.png">
+
+
+## Challenge 7 ##
+Prepare a dataset by cleaning it and show the percentage of car sales in different regions.
+
+<img src="Challenge 7/chart.png">
+
+
+## Challenge 8 ##
+Group stores into clusters and determine the best stores to invest in.
+
+<img src="Challenge 8/chart.png">
